@@ -1,1 +1,1 @@
-# fullstack.projects
+# fullstack.assignments
